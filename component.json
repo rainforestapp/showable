@@ -1,5 +1,6 @@
 {
   "name": "showable",
+  "repo": "rainforestapp/showable",
   "description": "Make a view showable and hideable",
   "scripts": ["index.js"],
   "dependencies": {
